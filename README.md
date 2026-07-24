@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ash-Cash11/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Ash-Cash11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ash-Cash11/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Ash-Cash11/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ash-Cash11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ash-Cash11/Leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ash-Cash11/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
